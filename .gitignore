@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv
+env/
+venv/
+.hf_token
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+._*
+Thumbs.db
+
+# Data (gitignore - 용량이 큼)
+data/
+temp/
+
+# Models (용량이 큼)
+models/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/

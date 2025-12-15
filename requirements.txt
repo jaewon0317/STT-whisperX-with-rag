@@ -1,0 +1,33 @@
+# WhisperX Note - Requirements
+# ============================
+
+# WhisperX (with speaker diarization)
+whisperx
+
+# PyTorch
+torch>=2.0.0
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.0
+pydub>=0.25.0
+pypdf>=3.17.0
+
+# Web Framework (FastAPI)
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-multipart>=0.0.6
+jinja2>=3.1.0
+
+# RAG / LLM (Ollama + LangChain)
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-ollama>=0.0.1
+langchain-text-splitters>=0.0.1
+chromadb>=0.4.0
+
+# Utilities
+numpy>=1.24.0
+
+# Optional: Legacy Gradio UI
+# gradio>=4.0.0

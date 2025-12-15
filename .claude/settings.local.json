@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(tree /F D:stt /L 3)",
+      "Bash(where:*)",
+      "Bash(dir /b D:stt)",
+      "Bash(yt-dlp:*)",
+      "Bash(export PATH:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
