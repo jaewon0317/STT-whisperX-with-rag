@@ -1,5 +1,5 @@
 # WhisperX Note: 로컬 AI 기반 음성 회의록 및 RAG 시스템
-
+https://youtu.be/-_zVLErD0UY?si=ZCTVyId1hLXFFZn6
 ## 1. 개요
 
 ### 1.1  배경 및 목적
